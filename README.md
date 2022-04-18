@@ -1,52 +1,52 @@
-# Project Name
-> Outline a brief description of your project.
+# Prediction Of skin cancer
+> CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+#### Buisness Goal
+
+The Following diseases are predicted accurately which can help in timely diagnosis,
+* Actinic keratosis
+* Basal cell carcinoma
+* Dermatofibroma
+* Melanoma
+* Nevus
+* Pigmented benign keratosis
+* Seborrheic keratosis
+* Squamous cell carcinoma
+* Vascular lesion
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The model 3 was able predict skin cancer of all 9 classes with an accuracy metrics of,
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+Training Accuracy:
+Validation Accuracy:
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- scikit-learn
+- colab
+- keras
+- Tensorflow
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done as an Assignment from Upgrad for linear regression module
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by <br>
+<a href="https://github.com/cskn1097">@cskn1097</a> - - feel free to contact me! <br>
